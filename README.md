@@ -1,2 +1,2 @@
 # localtonet-minecraftserver
-Publish your Github Codespaces Minecraft Server to the Internet
+Publish your Github Codespaces Minecraft Server publically into the Internet
