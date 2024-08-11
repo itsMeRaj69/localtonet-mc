@@ -2,7 +2,7 @@
 
 This guide provides step-by-step instructions to install and use LocalToNet in a GitHub Codespaces VSCode environment. Follow these steps to easily set up a tunnel to connect your local server (e.g., Minecraft) with the outside world.
 
-## Prerequisites
+## Requirements
 
 - A GitHub account
 - Access to GitHub Codespaces
