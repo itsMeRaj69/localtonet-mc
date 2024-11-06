@@ -59,7 +59,7 @@ This guide walks you through the steps to install and use LocalToNet in a GitHub
    If everything went well, your terminal should show that the machine is connected.
 
 5. **Re-authenticate When Needed**  
-   Remember to re-run the above command if you restart Codespaces or close the terminal.
+   Remember to re-run the command `./localtonet` if you restart Codespaces or close the terminal.
 
 ## Setting Up Tunnels
 
@@ -77,7 +77,8 @@ This guide walks you through the steps to install and use LocalToNet in a GitHub
 
 ## Starting/Restarting Localtonet Again!
 
-Suppose your Codespaces went shutdown and you want to start/restart localtonet, to do it! You simply have simply to run `./localtonet`. (Also check for the [My Tunnels - TCP and UDP](https://localtonet.com/tunnel/tcpudp ) page to start the tunnel or to stop it)
+Suppose your Codespaces went shutdown and you want to start the localtonet ip-port service, To do it, You simply have to follow this step!.
+(Also check for the [My Tunnels - TCP and UDP](https://localtonet.com/tunnel/tcpudp ) page to start the tunnel or to stop it)
 
 ## FAQ
 
