@@ -76,6 +76,7 @@ This guide walks you through the steps to install and use LocalToNet in a GitHub
    Stop the tunnel when you're not using it to save resources.
 
 ##Restarting Localtonet
+
 Suppose your codespaces was shutdown and you want to start/restart localtonet, to do it, you have simply to use `./localtonet`.
 
 ## FAQ
