@@ -77,7 +77,7 @@ This guide walks you through the steps to install and use LocalToNet in a GitHub
 
 ## Restarting Localtonet
 
-Suppose your codespaces was shutdown and you want to start/restart localtonet, to do it, you have simply to use `./localtonet`.
+Suppose your Codespaces went shutdown and you want to start/restart localtonet, to do it! You simply have simply to run `./localtonet` (Also check for the [My Tunnels - TCP and UDP](https://localtonet.com/tunnel/tcpudp ) page to start the tunnel or to stop it.
 
 ## FAQ
 
