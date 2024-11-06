@@ -1,4 +1,4 @@
-# LocalToNet Setup in GitHub Codespaces
+# LocalToNet Minecraft Server Setup in GitHub Codespaces
 
 This guide walks you through the steps to install and use LocalToNet in a GitHub Codespaces environment. Follow these steps to easily set up a tunnel to connect your local server (e.g., Minecraft) and invite other players.
 
@@ -74,11 +74,6 @@ This guide walks you through the steps to install and use LocalToNet in a GitHub
 
 3. **Manage Tunnel Usage**  
    Stop the tunnel when you're not using it to save resources.
-
-## Starting/Restarting Localtonet Again!
-
-Suppose your Codespaces went shutdown and you want to start the localtonet ip-port service, To do it, You simply have to follow this step!.
-(Also check for the [My Tunnels - TCP and UDP](https://localtonet.com/tunnel/tcpudp ) page to start the tunnel or to stop it)
 
 ## FAQ
 
