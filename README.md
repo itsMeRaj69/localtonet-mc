@@ -82,4 +82,4 @@ This guide walks you through the steps to install and use LocalToNet in a GitHub
 
 ## Done!
 
-That’s it! If you have followed each steps correctly then you’re all set, Enjoy playing Minecraft with your friends ✨.
+That’s it. If you have followed each steps correctly, then you’re all set. Enjoy playing Minecraft with your friends! ✨
