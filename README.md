@@ -64,7 +64,7 @@ This guide walks you through the steps to install and use LocalToNet in a GitHub
 ## Setting Up Tunnels
 
 1. **Create a Tunnel**  
-   On the LocalToNet website, go to **My Tunnels** > **TCP - UDP** and set up your tunnel with:
+   On the LocalToNet website, go to [**My Tunnels** > **TCP - UDP**](https://localtonet.com/tunnel/tcpudp) and set up your tunnel with:
    - **Protocol Type:** UDP - TCP
    - **Server:** Choose one, e.g., SG-Singapore
    - **Port:** 25565 (or any other port you need)
