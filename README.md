@@ -1,11 +1,13 @@
-# LocalToNet Minecraft Port Forwarding Setup in GitHub Codespaces
+# LocalToNet Minecraft Port Forwarding Setup
 
-This guide walks you through the steps to install and use LocalToNet in a GitHub Codespaces environment. Follow these steps to easily set up a tunnel to connect your local server (e.g., Minecraft) and invite other players.
+This guide walks you through the steps to install and use LocalToNet *(In our case; In a GitHub Codespaces environment)*.
+
+Follow these steps to easily set up a tunnel to connect your local server (e.g., Minecraft) and invite other players.
 
 ## Requirements
 
 - A GitHub account
-- Access to GitHub Codespaces
+- Access to GitHub Codespaces 
 - Basic knowledge of terminal commands
 
 ## Steps to Get Started
