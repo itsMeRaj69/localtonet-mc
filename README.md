@@ -1,4 +1,4 @@
-# LocalToNet Minecraft Port Forwarding Setup
+# LocalToNet - Minecraft Port Forwarding Setup
 
 This guide walks you through the steps to install and use LocalToNet *(In our case; In a GitHub Codespaces environment)*.
 
